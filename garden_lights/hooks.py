@@ -1,6 +1,6 @@
 app_name = "garden_lights"
 app_title = "Garden Lights"
-app_publisher = "Mohammed "
+app_publisher = "Mohammed Nasser"
 app_description = "Garden Lights Reports"
 app_email = "nasser@nasserx.com"
 app_license = "MIT"
